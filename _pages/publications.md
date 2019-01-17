@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=0jXLYWwAAAAJ&hl)
 
 
 Journal and Peer-reviewed Conference Articles
 ---
-Libby, T., Chukwueke, C.; Sponberg, S. [Submitted, 2018]. History-dependent Perturbation Response in Limb Muscle. [[arXiv]](https://www.biorxiv.org/content/early/2019/01/02/509646)
+Libby, T., Chukwueke, C.; Sponberg, S. [Submitted, 2018]. History-dependent Perturbation Response in Limb Muscle. [[BioRXiv]](https://www.biorxiv.org/content/early/2019/01/02/509646)
 
-Burden, S. A., Libby, T., and Coogan, S. D. [Submitted, 2018]. On contraction analysis for hybrid systems. arXiv:1811.03956 [[arXiv]](arxiv.org/abs/1811.03956)
+Burden, S. A., Libby, T., and Coogan, S. D. [Submitted, 2018]. On contraction analysis for hybrid systems. [[arXiv:1811.03956]](arxiv.org/abs/1811.03956)
 
 Singh, A., Libby, T., and Fuller, S. [Submitted, 2018]. Rapid Inertial Reorientation of an Aerial Insect-sized Robot Using a Piezo-actuated Tail.
 
